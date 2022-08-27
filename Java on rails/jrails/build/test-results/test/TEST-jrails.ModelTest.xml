@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-17T20:16:56" hostname="LAPTOP-T1ADPN3S" time="0.004">
+  <properties/>
+  <testcase name="id" classname="jrails.ModelTest" time="0.004"/>
+  <system-out><![CDATA[The current working directory is D:\Java Project\p4\jrails
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
